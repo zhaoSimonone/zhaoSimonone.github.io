@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Jiajia &amp; Zhao&#39;s Daily Life</title>
+    <link>https://zhaoSimonone.github.io/categories/about/</link>
+    <description>Recent content in About on Jiajia &amp; Zhao&#39;s Daily Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://zhaoSimonone.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to this site</title>
+      <link>https://zhaoSimonone.github.io/post/2020-4-01-about-this-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaoSimonone.github.io/post/2020-4-01-about-this-site/</guid>
+      <description>关于这一切 关于我们 我想借舒婷的《致橡树》来表达我对她的情感——“我必须是你近旁的一株木棉，作为树的形像和你站在一起。”不论发生什么，希望我们</description>
+    </item>
+    
+    <item>
+      <title>写在开学前</title>
+      <link>https://zhaoSimonone.github.io/post/2020-4-05-before-school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaoSimonone.github.io/post/2020-4-05-before-school/</guid>
+      <description>写在开学前 2020年的一月份 一月份的时候过得很恐怖，期末作业+艰难的考试，没想到都过来了，那几天真的是严重缺乏睡眠的几天。以为是普普通通的一</description>
+    </item>
+    
+  </channel>
+</rss>
